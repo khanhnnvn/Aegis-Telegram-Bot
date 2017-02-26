@@ -1,5 +1,7 @@
 # Aegis Telegram Bot
-Aegis là một con bot Telegram được phát triển bởi admin Vir - Area3. Bot hiện đang hoạt động trong group Area3 để phục vụ thành viên.
+Aegis là một con bot Telegram được phát triển bởi admin Vir - Area3. 
+
+Bot hiện đang hoạt động trong group Area3 để phục vụ thành viên.
 
 ## Chức năng
 
